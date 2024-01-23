@@ -7,7 +7,7 @@ import 'slick-carousel/slick/slick-theme.css';
 import MyContext from '../../context/data/myContext';
 
 const books = [
-  { id: 1, title: 'Bookly', image: 'https://static.vecteezy.com/system/resources/previews/004/299/835/original/online-shopping-on-phone-buy-sell-business-digital-web-banner-application-money-advertising-payment-ecommerce-illustration-search-free-vector.jpg' },
+  { id: 1, title: 'Bookly', image: 'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRlE2gZwgYbnGksGIlnW6EOjt8vtC_WnRApYdaCQV7p9jdAewIae4aYQ65TxX7EJANvRVWVxBWX4F9BuaiTpK0qvXBiikeqFUKhZemnxW5PkE2nZyw_CKVjrw&usqp=CAE' },
   { id: 2, title: 'Bookly', image: 'https://m.media-amazon.com/images/I/41ACElFKjiL._SY445_SX342_.jpg' },
   { id: 3, title: 'Bookly', image: 'https://m.media-amazon.com/images/I/41do3PRTypS._SY445_SX342_.jpg' },
 ];
