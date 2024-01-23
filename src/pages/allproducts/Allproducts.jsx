@@ -26,7 +26,7 @@ const products = [
   {
     id: 3,
     name: 'THE POWER OF YOUR SUBCONCIOUS MIND ',
-    href: '/nopage',
+    href: '/product/:id',
     imageSrc: 'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQjuzU2dHb85SouHPCTtjQGYP_WZfPSD1h8U0T-1MGKVafOyrea5yOj5jIoulYkOcYfVWdt2RvtGEd41F7C6j6RzW9KBNPOZPMV9emzi_k&usqp=CAE',
     imageAlt: "images",
     price: '$35',
@@ -35,7 +35,7 @@ const products = [
   {
     id: 4,
     name: 'Think And Grow Rich',
-    href: '/nopage',
+    href: '/product/:id',
     imageSrc: 'https://m.media-amazon.com/images/I/61NKtm0nlNL._SY342_.jpg',
     imageAlt: "images",
     price: '$15',
@@ -44,7 +44,7 @@ const products = [
    {
     id: 5,
     name: 'Who will Cry when You Die?',
-    href: '/nopage',
+    href: '/product/:id',
     imageSrc: 'https://m.media-amazon.com/images/I/41do3PRTypS._SY445_SX342_.jpg',
     imageAlt: "image",
     price: '$20',
